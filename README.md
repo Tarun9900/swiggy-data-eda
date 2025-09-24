@@ -15,7 +15,7 @@ The goal is to identify **popular cuisines, and consumer preferences** by applyi
 ---
 
 ## 🛠️ Tools & Technologies
-- **Python 3**  
+- **Python  3.13.7**  
 - **Pandas** – Data manipulation  
 - **Matplotlib / Seaborn** – Visualization  
 - **Jupyter Notebook** – Interactive analysis  
