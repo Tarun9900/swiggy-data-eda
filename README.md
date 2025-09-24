@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 This project presents an **Exploratory Data Analysis (EDA)** of the **Swiggy dataset** using Python.  
-The goal is to identify **popular cuisines, sales patterns, and consumer preferences** by applying data cleaning, transformation, and visualization techniques.  
+The goal is to identify **popular cuisines, and consumer preferences** by applying data cleaning, transformation, and visualization techniques.  
 
 ---
 
@@ -48,10 +48,8 @@ swiggy-sales-analysis/
 ---
 
 ## 📈 Sample Visuals
-*(Add your best charts here, saved in the `images/` folder)*  
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/32f020f0-d5a7-445b-99d5-9b3fd708418d" />
 
-### Restaurant Count by Cuisine  
-![Cuisine Distribution](images/cuisine_distribution.png)
 
 ---
 
