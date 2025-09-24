@@ -26,10 +26,15 @@ The goal is to identify **popular cuisines, sales patterns, and consumer prefere
 
 swiggy-sales-analysis/
 │── data/ # Dataset (if available or sample)
+
 │── images/ # Charts & visuals
+
 │── Swiggy_Analysis.ipynb # Jupyter Notebook with full analysis
+
 │── swiggy_analysis.py # (Optional) Script version
+
 │── README.md # Project documentation
+
 │── requirements.txt # Python dependencies
 
 ---
